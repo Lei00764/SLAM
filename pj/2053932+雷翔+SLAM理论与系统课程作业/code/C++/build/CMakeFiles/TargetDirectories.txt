@@ -1,0 +1,3 @@
+/media/lei/Data/2024/third-year/SLAM/pj/code/C++/build/CMakeFiles/rebuild_cache.dir
+/media/lei/Data/2024/third-year/SLAM/pj/code/C++/build/CMakeFiles/edit_cache.dir
+/media/lei/Data/2024/third-year/SLAM/pj/code/C++/build/CMakeFiles/triangulation.dir
